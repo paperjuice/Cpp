@@ -1,4 +1,7 @@
 ﻿  stdafx.cpp
+  GuessMyNumber.cpp
   ConsoleApplication1.cpp
+  CompareNumbers.cpp
+  Generating Code...
   ConsoleApplication1.vcxproj -> C:\_work\C++\VS\Learn2\ConsoleApplication1\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> C:\_work\C++\VS\Learn2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
