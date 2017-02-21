@@ -1,9 +1,7 @@
 #include "Account.h"
+#include "Transaction.h"
 
 using namespace std;
-
-
-
 
 Account::Account()
 {

@@ -1,8 +1,7 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\_work\c++\vs\bank\bankmain\debug\bankmain.exe' is denied.
-  Transaction.cpp
+﻿  Transaction.cpp
   stdafx.cpp
   BankMain.cpp
   Account.cpp
   Generating Code...
-  BankMain.vcxproj -> C:\_work\C++\VS\Bank\BankMain\Debug\BankMain.exe
-  BankMain.vcxproj -> C:\_work\C++\VS\Bank\BankMain\Debug\BankMain.pdb (Full PDB)
+  BankMain.vcxproj -> D:\_Work\C++\VS\Bank\BankMain\Debug\BankMain.exe
+  BankMain.vcxproj -> D:\_Work\C++\VS\Bank\BankMain\Debug\BankMain.pdb (Full PDB)

@@ -8,8 +8,6 @@ class Account
 private:
 	int balance;
 
-
-
 public:
 	Account();
 	bool Deposit(int amount);

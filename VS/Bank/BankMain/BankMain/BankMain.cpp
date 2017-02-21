@@ -17,9 +17,6 @@ int main()
 		t.ShowTransaction();
 
 
-
-
-
 		cout << "Would you like a transaction? 1 - WITHDRAW, 2 - DEPOSIT, 3 - SHOW DEPOSIT, 4 - NO TRANSACTIONS FOR MEH"<<endl;
 		cin >> answer;
 
@@ -29,14 +26,12 @@ int main()
 			case 1:
 				cout << "What is the amount you want to WITHDRAW?"<<endl;
 				cin >> answer;
-				t.AddTransactions(answer, "WITHDRAW");
 				a.Withdraw(answer);
 				break;
 
 			case 2: 
 				cout << "What is the amount you want to DEPOSIT?" << endl;
 				cin >> answer;
-				t.AddTransactions(answer, "DEPOSIT");
 				a.Deposit(answer);
 				break;
 
