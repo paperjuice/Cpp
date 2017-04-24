@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  Debugging.cpp
-d:\_work\c++\vs\debugging\debugging\debugging\debugging.cpp(19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Generating Code...
-  Debugging.vcxproj -> D:\_Work\C++\VS\Debugging\Debugging\Debug\Debugging.exe
-  Debugging.vcxproj -> D:\_Work\C++\VS\Debugging\Debugging\Debug\Debugging.pdb (Full PDB)
